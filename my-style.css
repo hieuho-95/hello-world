@@ -10,3 +10,7 @@ h1 {
 img {
     max-width: 480px;
 }
+
+img#avatar {
+    max-width: 120px;
+}
