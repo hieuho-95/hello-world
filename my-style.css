@@ -10,3 +10,11 @@ h1 {
 #emergency {
     color: red;
 }
+
+img {
+    max-width: 480px;
+}
+
+img#avatar {
+    max-width: 120px;
+}
